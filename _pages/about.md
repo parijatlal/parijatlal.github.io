@@ -11,8 +11,7 @@ I’m an economist at Columbia University studying issues in economic developmen
 
 I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the US for college. I’m a big fan of (old school) hip hop, (Arsenal and Germany) football, reading historical fiction, and exploring different cuisines. Feel free to reach out!
 
-Education
-=====
+### Education
   * Ph.D. in Economics (_2024_)
   Columbia University
   * M.A. in Economics (_2020_)
