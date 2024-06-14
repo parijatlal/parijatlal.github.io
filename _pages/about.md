@@ -14,9 +14,7 @@ I was born in Germany, and had the privilege of living in India (my home country
 ### Education
 * Ph.D. in Economics (_2024_)
 Columbia University
-
 * M.A. in Economics (_2020_)
 Columbia University
-
 * B.A. in Economics (_2017_)
 Harvard University
