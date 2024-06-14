@@ -5,10 +5,7 @@ permalink           : /research/
 author_profile      : true
 ---
 
-{% include base_path %}
-
-Working Papers
-=====
+## Working Papers
     * **[Cooperatives, Competition, and Compensation](https://parijatlal.github.io/files/coops.pdf)**
         <details>
             <summary>Abstract</summary>
@@ -20,13 +17,11 @@ Working Papers
                 We study the equilibrium effects of subsidizing public services in the presence of vertically differentiated public and private suppliers. We evaluate one of India’s largest welfare schemes, Janani Suraksha Yojana (JSY), which subsidized childbirth at public health institutions. JSY did not improve health outcomes despite a substantial increase in take-up of institutional care. We document three equilibrium responses that explain this policy failure. First, JSY led to a mismatch in patient risk across health facilities. High-risk mothers sorted out of the highest-quality care at private facilities and into lower-quality public facilities. Second, in response to congestion and deterioration of care at public hospitals, only mothers with high socioeconomic status sorted out of congested public facilities into more expensive private facilities. Third, private hospitals increased prices without improvements in healthcare quality in a specific subset of states, further crowding out high-risk and poor mothers. These findings point to the need for complementary public policies in addition to JSY, in particular, capacity improvements at public facilities and targeted vouchers for poor mothers to access healthcare at private facilities.
             </details>
 
-Work in Progress
-=====
+## Work in Progress
     * **Withholding Taxes: Implications for Trade in Services and Base Erosion** (_with Alexander Klemm and Li Liu_)
     * **Complementarity and Substitution in Import Tax Evasion** (_with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira_)
 
-Policy Publications
-=====
+## Policy Publications
     * **[Drivers and Implications of Import Tax Evasion in Uganda](https://www.theigc.org/publications/drivers-and-implications-import-tax-evasion-uganda)** 
     (with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira). 2023. International Growth Centre Project Report.
     * **[Scalable Business Models for Alternative Biomass Cooking Fuels and Their Potential in Sub-Saharan Africa](https://openknowledge.worldbank.org/handle/10986/28595)** 
