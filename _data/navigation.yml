@@ -3,11 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/   
-
   - title: "Experience"
-    url: /experience/ 
+    url: /experience/   
     
   - title: "CV"
     url: https://parijatlal.github.io/files/lal_parijat_cv.pdf
