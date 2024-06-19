@@ -8,7 +8,6 @@ author_profile: true
 * **Department of Economics, Columbia University** <br />
 Graduate Research Fellow for Joseph Stiglitz (_2019-23_) <br />
 Graduate Research Fellow for Michael Best (_2020-21_)
-
 * **International Monetary Fund** <br />
 Fund Internship Program (_2023_)
 * **Dalberg Advisors** <br />
@@ -20,6 +19,7 @@ Research Associate (2015)
 Research Intern in the Center for Economy and Development (_2015_)
 * **Udayan Care** <br />
 Legal Research Intern (_2014_)
+
 ## Teaching
 ### Columbia University
 * **Principles of Economics** (_Fall 2021_, _Spring 2022_) <br />
