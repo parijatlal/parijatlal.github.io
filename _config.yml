@@ -6,6 +6,16 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PY43J675DB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PY43J675DB');
+</script>
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Parijat Lal"
