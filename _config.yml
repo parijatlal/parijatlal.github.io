@@ -75,6 +75,7 @@ author:
 
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dirt"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
