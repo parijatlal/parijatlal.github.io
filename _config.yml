@@ -6,16 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PY43J675DB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-PY43J675DB');
-</script>
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Parijat Lal"
@@ -121,7 +111,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : rfB_qE6_t4bObwJ1GM481_uCIWOlG8ZPkp69gsVRHE8
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -143,7 +133,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : G-PY43J675DB
 
