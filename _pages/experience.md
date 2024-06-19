@@ -25,7 +25,6 @@ Research Intern in the Center for Economy and Development (_2015_)
 * **Udayan Care** <br />
 Legal Research Intern (_2014_)
 
-
 ## Teaching
 ### Columbia University
 * **Principles of Economics** (_Fall 2021_, _Spring 2022_) <br />
