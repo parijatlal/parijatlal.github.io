@@ -22,7 +22,15 @@ author_profile      : true
 * **Withholding Taxes: Implications for Trade in Services and Base Erosion** <small> (_with Alexander Klemm and Li Liu_) </small>
     <details>
         <summary>Abstract</summary>
-            <small>How does the allocation of ownership and control rights within firms affect responses to shocks? I study this question in the context of a pro-competitive reform in India that impacted cooperative manufacturing firms and their competitors. The reform removed firm-size restrictions on the production of “reserved” items, increasing competition for incumbents in “de-reserved” product markets. Using a difference-in-differences approach, I find that supplier cooperatives (SCs), owned and controlled by producer-members who supply material inputs, are resilient to the shock and move away from the production of de-reserved items. SCs increase the share of their income spent on materials relative to similar non-cooperatives, with evidence of downward adjustments in labor spending. On the other hand, worker cooperatives (WCs), owned and controlled by employees of the firm, face a sharp decline in revenue and are less likely than their non-cooperative counterparts to respond by picking up items that are not directly affected by the reform. Spending on labor does not fall as much as revenue for WCs, which is in line with the immediate interests of membership, but adjustments to labor inputs vary significantly across employment categories.</small>
+            <small>International trade in intangibles can be conducive to tax-driven reporting, with multinationals importing services
+from low-tax jurisdictions to deflate profits in higher-tax environments. Given their potential to counter this form
+of base erosion, withholding taxes (WHTs) on payments for services have featured extensively in ongoing reforms of
+the international tax architecture. In this study, we build a model of reporting decisions when firms have economic
+activities in one country and aﬃliates in others. We then test the predictions of this model using newly compiled
+data on treaty and non-treaty WHT rates for 100+ developing countries over 2009-2021. While there is no significant
+relationship between WHTs and services trade in general, we find that these taxes do have a strong negative impact
+on imports of relevant services from known low-tax jurisdictions. Our findings suggest that WHT can serve as a
+useful tool for countries to combat base erosion without drastic changes to aggregate service flows.</small>
     </details>
 
 * **Complementarity and Substitution in Import Tax Evasion** <small> (_with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira_) </small>
